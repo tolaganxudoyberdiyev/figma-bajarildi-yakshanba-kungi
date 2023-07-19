@@ -452,8 +452,9 @@ line-height: 100%; /* 16px */
     flex-direction: column;
     text-align: center;
    }
-  .header-text img img{
-  width: 100%;
+  .header-img img{
+    width: 100%;
+  }
   
   
   } 
@@ -537,7 +538,7 @@ text-transform: capitalize;
   .imgs{
 
     align-items:center;
-    padding: 30px;
+    /* padding: 30px; */
 
   gap: 65px;
 
